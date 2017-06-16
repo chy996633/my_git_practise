@@ -1,0 +1,3 @@
+[submodule "ruby_practise"]
+	path = ruby_practise
+	url = git@github.com:chy996633/ruby_practise.git
