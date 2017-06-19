@@ -1,0 +1,6 @@
+使用Git注意事项：
+
+1. 每次做Branch的时候单独建一个changeList
+2. 每次要提交前把改动shelve起来
+3. revert 的时候如果要删除本地文件记得勾选 delete local copy of added files
+
